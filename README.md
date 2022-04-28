@@ -18,7 +18,8 @@
 
 <h2>Demonstration</h2>
 <h3>HOME PAGE :-</h3>
-![Screenshot 2022-04-28 100536](https://user-images.githubusercontent.com/88818731/165677872-96a1e52c-8ec4-4612-8575-7edf836148e2.png)
+<img src=""C:\Users\CHIRAG\Pictures\Natours\Screenshot 2022-04-28 100536.png"" alt="Girl in a jacket" width="500" height="600">
+<!-- ![Screenshot 2022-04-28 100536](https://user-images.githubusercontent.com/88818731/165677872-96a1e52c-8ec4-4612-8575-7edf836148e2.png) -->
 
 </br>
 
