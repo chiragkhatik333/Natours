@@ -18,23 +18,8 @@
 
 <h2>Demonstration</h2>
 <h3>HOME PAGE :-</h3>
-<img src=""C:\Users\CHIRAG\Pictures\Natours\Screenshot 2022-04-28 100536.png"" alt="Girl in a jacket" width="500" height="600">
-<!-- ![Screenshot 2022-04-28 100536](https://user-images.githubusercontent.com/88818731/165677872-96a1e52c-8ec4-4612-8575-7edf836148e2.png) -->
-
-</br>
-
-<h3>TOUR DETAIL :-</h3>
-![Screenshot 2022-04-28 100658](https://user-images.githubusercontent.com/88818731/165678001-4acaa369-da07-490a-aa66-50395c62cd7f.png)
-
-![Screenshot 2022-04-28 100739](https://user-images.githubusercontent.com/88818731/165678011-418d1e7a-7af7-4589-8e1d-f40b1fc1e7e7.png)
-
-</br>
-<h3>LOGIN PAGE:-</h3>
-![Screenshot 2022-04-28 100852](https://user-images.githubusercontent.com/88818731/165678119-bb593dbf-b8eb-45a0-b5d5-8b3d480427f8.png)
-
-</br>
-<h3>SIGNUP PAGE:-</h3>
-![Screenshot 2022-04-28 100925](https://user-images.githubusercontent.com/88818731/165678297-5a50abee-b0cd-4295-aed0-b4473ae5a078.png)
-
-
-
+![Screenshot 2022-04-28 100536](https://user-images.githubusercontent.com/88818731/165678820-e7a66026-b571-4d3c-9833-b60665005c73.png)
+![Screenshot 2022-04-28 100658](https://user-images.githubusercontent.com/88818731/165678943-50b9bb9c-ba5f-406e-a90d-06e3b68c005c.png)
+![Screenshot 2022-04-28 100739](https://user-images.githubusercontent.com/88818731/165678953-e8a18247-d437-4c7d-b888-8a9ac901c7bd.png)
+![Screenshot 2022-04-28 100852](https://user-images.githubusercontent.com/88818731/165678954-4f459b37-8a09-4e43-bab9-a7eed56baaf4.png)
+![Screenshot 2022-04-28 100925](https://user-images.githubusercontent.com/88818731/165678960-c730e385-708f-4699-a423-a85656530d50.png)
