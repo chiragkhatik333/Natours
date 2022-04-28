@@ -1,4 +1,4 @@
-<h1 align='center'>Natours</h1>
+<h1 align='center'>Natours ✈️</h1>
 <p align='center'>An awesome tour booking site built on top of NodeJS.</p> </br>
 <h2>Key Features</h2>
 <ul>
